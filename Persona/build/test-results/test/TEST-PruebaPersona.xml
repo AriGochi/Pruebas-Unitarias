@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PruebaPersona" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-05-04T20:59:25" hostname="iMac-de-Jesus.local" time="0.019">
+  <properties/>
+  <testcase name="PruebasPersona()" classname="PruebaPersona" time="0.016"/>
+  <testcase name="CambiarPeso()" classname="PruebaPersona" time="0.001"/>
+  <testcase name="PruebasPersona2()" classname="PruebaPersona" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

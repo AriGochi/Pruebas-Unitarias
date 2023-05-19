@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ProbarCompu" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-05-08T20:38:07" hostname="Laptop-de-JESUS.local" time="0.009">
-  <properties/>
-  <testcase name="pruebaRatonNoNulo()" classname="ProbarCompu" time="0.008"/>
-  <testcase name="pruebaRatonNulo()" classname="ProbarCompu" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

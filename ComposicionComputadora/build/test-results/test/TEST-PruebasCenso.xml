@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PruebasCenso" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-05-19T20:08:22" hostname="Laptop-de-JESUS.local" time="0.009">
+  <properties/>
+  <testcase name="pruebaUno()" classname="PruebasCenso" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

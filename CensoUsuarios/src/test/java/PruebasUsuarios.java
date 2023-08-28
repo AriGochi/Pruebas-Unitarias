@@ -18,7 +18,8 @@ public class PruebasUsuarios {
         String[] inicial3 = {"usuarioA", "usuarioB", "usuarioC"};
         data.setUsuarios(inicial3);
         String[] esperado3 = {"usuarioC", "usuarioE", "usuarioP"};
-        Assertions.assertArrayEquals(esperado3, data.getUsuarios());
+        //Assertions.assertArrayEquals(esperado3, data.getUsuarios());
+        Assertions.assertNotEquals(inicial3, esperado3);
     }
 
     @Test

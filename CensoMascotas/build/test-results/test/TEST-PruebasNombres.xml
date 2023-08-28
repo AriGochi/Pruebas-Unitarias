@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PruebasNombres" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-08-21T18:40:07" hostname="iMac-de-Jesus.local" time="0.02">
+<testsuite name="PruebasNombres" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-08-28T21:33:11" hostname="iMac-de-Jesus.local" time="0.023">
   <properties/>
-  <testcase name="pruebaTres()" classname="PruebasNombres" time="0.017"/>
-  <testcase name="pruebaDos()" classname="PruebasNombres" time="0.001"/>
+  <testcase name="pruebaTres()" classname="PruebasNombres" time="0.02"/>
+  <testcase name="pruebaDos()" classname="PruebasNombres" time="0.0"/>
   <testcase name="Pruebauno()" classname="PruebasNombres" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>

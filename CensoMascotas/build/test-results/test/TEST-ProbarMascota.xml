@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ProbarMascota" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-09-07T21:49:00" hostname="iMac-de-Jesus.local" time="0.028">
+  <properties/>
+  <testcase name="pruebaTipoNulo()" classname="ProbarMascota" time="0.015"/>
+  <testcase name="pruebaTamañoNulo()" classname="ProbarMascota" time="0.001"/>
+  <testcase name="PruebaNombreNoNulo()" classname="ProbarMascota" time="0.001"/>
+  <testcase name="PruebaTamañoNoNulo()" classname="ProbarMascota" time="0.001"/>
+  <testcase name="pruebaTipoNoNulo()" classname="ProbarMascota" time="0.002"/>
+  <testcase name="pruebaNombreNulo()" classname="ProbarMascota" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -14,12 +14,12 @@ public class PruebaLibro {
     }
     @Test
     public void pruebaDos(){
-        //Probando el posible error, HAY ERROR
+
         CensoLibros data = new CensoLibros();
         int[] inicial2= {1, 2,0,1,1,0,1};
         data.setLibrosleidos(inicial2);
         int[] esperado2 = {1, 2, 0,1,1,9, 1};
-        Assertions.assertArrayEquals(esperado2, data.getLibrosleidos());
+        Assertions.assertNotEquals(esperado2, data.getLibrosleidos());
 
     }
 

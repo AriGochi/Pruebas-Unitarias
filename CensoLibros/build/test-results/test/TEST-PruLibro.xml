@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="PruLibro" tests="6" skipped="0" failures="0" errors="0" timestamp="2023-09-08T17:10:03" hostname="iMac-de-Jesus.local" time="0.024">
+  <properties/>
+  <testcase name="ProbarAutorDiferente()" classname="PruLibro" time="0.014"/>
+  <testcase name="ProbarEditorialDiferente()" classname="PruLibro" time="0.005"/>
+  <testcase name="ProbarTituloFiferente()" classname="PruLibro" time="0.0"/>
+  <testcase name="ProbarAutor()" classname="PruLibro" time="0.001"/>
+  <testcase name="ProbarUno()" classname="PruLibro" time="0.001"/>
+  <testcase name="ProbarEdit()" classname="PruLibro" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

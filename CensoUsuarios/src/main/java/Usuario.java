@@ -59,4 +59,10 @@ public class Usuario {
     public void setEdad(int index, int dato) {
         edad[index] = dato;
     }
+
+    public void setEdad(String[] inicial3) {
+    }
+
+    public void setApellido(int[] inicial3) {
+    }
 }

@@ -5,27 +5,27 @@ public class PruUsuario {
     @Test
     public void PruebaNombre() {
         Usuario usuario = new Usuario();
-        String[] inicial = {"Pedro", "Perez", String.valueOf(12)};
+        String[] inicial = {"Pedro", "Perez", "Jesus"};
         usuario.setNombre(inicial);
-        String[] esperado = {"Pedro", "Perez", "Macmillan Publishers"};
+        String[] esperado = {"Pedro", "Perez", "Pilar"};
         Assertions.assertNotEquals(esperado, usuario.getNombre());
     }
 
     @Test
-    public void PruebadOS() {
+    public void PruebaApellido() {
         Usuario usuario = new Usuario();
-        String[] inicial2 = {"Pedro", "Perez", String.valueOf(12)};
-        usuario.setNombre(inicial2);
-        String[] esperado2 = {"Pedro", "Perez", String.valueOf(12)};
-        Assertions.assertArrayEquals(esperado2, usuario.getNombre());
+        String[] inicial2 = {"Perez", "Soto", "Guzman"};
+        usuario.setApellido(inicial2);
+        String[] esperado2 = {"Perez", "Soto", "Guzman"};
+        Assertions.assertArrayEquals(esperado2, usuario.getApellido());
     }
 
     @Test
-    public void PruebaTRES() {
+    public void PruebaEdad() {
         Usuario usuario = new Usuario();
-        String[] inicial3 = {"Juan", "Guzman", String.valueOf(19)};
-        usuario.setNombre(inicial3);
-        String[] esperado3 = {"Juan", "Guzman", String.valueOf(19)};
-        Assertions.assertArrayEquals(esperado3, usuario.getNombre());
+        int[] inicial3 = {18, 19, 20};
+        usuario.setEdad(inicial3);
+        int[] esperado3 = {18,19,20};
+        Assertions.assertArrayEquals(esperado3, usuario.getEdad());
     }
 }

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PruUsuario" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-09-11T17:59:35" hostname="iMac-de-Jesus.local" time="0.028">
+<testsuite name="PruUsuario" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-09-13T17:39:48" hostname="iMac-de-Jesus.ARAGON.UNAM.MX" time="0.032">
   <properties/>
-  <testcase name="PruebaNombre()" classname="PruUsuario" time="0.024"/>
-  <testcase name="PruebaTRES()" classname="PruUsuario" time="0.002"/>
-  <testcase name="PruebadOS()" classname="PruUsuario" time="0.0"/>
+  <testcase name="PruebaApellido()" classname="PruUsuario" time="0.027"/>
+  <testcase name="PruebaNombre()" classname="PruUsuario" time="0.002"/>
+  <testcase name="PruebaEdad()" classname="PruUsuario" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
